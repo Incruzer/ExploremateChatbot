@@ -1,0 +1,239 @@
+.mac-book-pro142-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+
+.mac-book-pro142-mac-book-pro142 {
+  width: 100%;
+  height: 1117px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.mac-book-pro142-screenshot202402072025482 {
+  top: 144px;
+  left: 803px;
+  width: 76px;
+  height: 71px;
+  position: absolute;
+  border-radius: 17px;
+}
+
+.mac-book-pro142-text {
+  top: 235px;
+  left: 711px;
+  color: rgba(0, 0, 0, 1);
+  width: 262px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Genos;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.mac-book-pro142-ellipse2 {
+  top: 288px;
+  left: 727px;
+  width: 232px;
+  height: 12px;
+  position: absolute;
+}
+
+.mac-book-pro142-text02 {
+  top: 332px;
+  left: 744px;
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Encode Sans Expanded;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.mac-book-pro142-text04 {
+  top: 805px;
+  left: 1082px;
+  color: rgba(0, 0, 0, 1);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Encode Sans Expanded;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.mac-book-pro142-text06 {
+  top: 803px;
+  left: 368px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Encode Sans Expanded;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.mac-book-pro142-text08 {
+  top: 396px;
+  left: 659px;
+  color: rgba(0, 0, 0, 1);
+  width: 367px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Encode Sans Expanded;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.mac-book-pro142-text10 {
+  top: 79px;
+  left: 189px;
+  color: rgba(0, 0, 0, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Genos;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.mac-book-pro142-text12 {
+  top: 75px;
+  left: 1228px;
+  color: rgba(0, 0, 0, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Genos;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.mac-book-pro142-text14 {
+  top: 74px;
+  left: 986px;
+  color: rgba(21, 57, 244, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Genos;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.mac-book-pro142-text16 {
+  top: 79px;
+  left: 421px;
+  color: rgba(0, 0, 0, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Genos;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.mac-book-pro142-polygon2 {
+  top: 0px;
+  left: 770px;
+  width: 149px;
+  height: 91px;
+  position: absolute;
+}
+
+.mac-book-pro142-vector3 {
+  top: 588.465087890625px;
+  left: 487.052978515625px;
+  width: 7px;
+  height: 3px;
+  position: absolute;
+}
+
+.mac-book-pro142-vector4 {
+  top: 588.4642333984375px;
+  left: 488.763427734375px;
+  width: 17px;
+  height: 3px;
+  position: absolute;
+}
+
+.mac-book-pro142-vector5 {
+  top: 588.9940185546875px;
+  left: 496.66748046875px;
+  width: 21px;
+  height: 2px;
+  position: absolute;
+}
+
+.mac-book-pro142-image23 {
+  top: 517px;
+  left: 340px;
+  width: 360px;
+  height: 239px;
+  position: absolute;
+  border-radius: 27px;
+}
+
+.mac-book-pro142-hhl1 {
+  top: 517px;
+  left: 1010px;
+  width: 372px;
+  height: 239px;
+  position: absolute;
+  border-radius: 19px;
+}

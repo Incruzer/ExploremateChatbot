@@ -1,0 +1,72 @@
+PROFESSORS,TERM CLASSES,0,BLDNG,BLDNG NUM
+dhanashree huddedar,Monday 12PM to 1PM (CR-4A),4000,ONL,ONL
+dhanashree huddedar,Tuesday 1PM to 3PM (CL-25),4001,SHL,216
+dhanashree huddedar,Wednesday 1PM to 3PM (CR 52),502,R52,CR-502
+dhanashree huddedar,Thursday 11AM to 1PM(CL-15,4003,SHL,216
+dhanashree huddedar,Thursday 1PM to 3PM (CL-12),4004,ONL,ONL
+dhanashree huddedar,Friday 11AM to 12PM (CL-52),520,L52,CL-52
+dhanashree huddedar,Friday 3PM to 5PM (CR 13),4006,JSH,120
+minati rath,Monday 12PM to 1PM (CR-53),503,R53,CR-53
+minati rath,Tuesday 12Pm to 1PM (CL-11),4011,HHL,106
+minati rath,Wednesday 11AM to 2PM (CR-53),530,R53,CR53
+minati rath,Thursday 3PM to 5PM (CL-16),4013,HHL,102
+minati rath,Friday 1PM to 3PM (CL-16),4014,FHL,107
+minati rath,Friday 3PM to 5PM(CL-11),4015,FHL,107
+pintu shah,Monday 11AM to 12PM(CR-501),501,R51,CR-51
+pintu shah,Tuesday 1PM to 2PM (CR-502),512,R52,CR-52
+pintu shah,Tuesday 3PM to 4PM (CR-604),604,R64,CR-64
+pintu shah,Wednesday 11AM to 12PM(CR-502),6071,HHL,117
+pintu shah,Wednesday 2PM to 3PM(CR-501),511,R51,117
+pintu shah,Thursday 11AM to 1PM(CL-15),4025,HHL,117
+pintu shah,Thursday 3PM to 5PM(CL-15),4026,HHL,117
+pintu shah,Friday 11AM to 1PM (CL-15),4027,HHL,117
+pintu shah,Friday 1PM to 2PM (CL-25),4028,HHL,117
+pintu shah,Saturday 11AM to 1PM (CL-15),4029,HHL,117
+pintu shah,Saturday 1PM to 3PM (CR-502),520,R52,117
+ashwini rao,Monday 1PM to 3PM(CL-25),4031,FAC,107
+ashwini rao,Tuesday 7AM to 9AM (CL-16),4032,FAC,107
+ashwini rao,Tuesday 1PM to 2PM (CL-51),510,FAC,107
+ashwini rao,Wednesday 7AM to 9PM(CL-15),7066,FAC,107
+ashwini rao,Wednesday 11AM to 12PM(CL-52),7067,L52,107
+ashwini rao,Wednesday 12PM to 1PM(CR-51),511,R51,CR-51
+ashwini rao,Thursday 2PM to 3PM(CL-16),7069,FAC,107
+ashwini rao,Friday 10AM to 11AM(CR-52),523,R52,CR-52
+ashwini rao,Friday 3PM to 5PM(CL-21),7071,FAC,107
+ashwini rao,Saturday 8AM to 9AM(CR-60),601,L60,107
+ashwini rao,Saturday 10AM to 11AM(CL-15),7073,FAC,107
+ashwini rao,Drawing I (ART 103),4039,FAC,107
+ruchi sharma,Monday 9AM to 11AM (CL-12),4048,AA4,101
+ruchi sharma,Tuesday 9AM to 11AM (CL-12),4049,FAC,105
+ruchi sharma,Wednesday 12PM to 1PM (CR-67),607,L60,105
+ruchi sharma,Wednesday 1PM to 3PM(LAB 6),4051,FAC,105
+ruchi sharma,Wednesday 4PM to 5PM (CR-53),5,R53,105
+ruchi sharma,Saturday 4PM to 5PM(CR-52),524,R52,CR-52
+Dharmesh Rathod,Monday 1PM to 3PM(CL-15),4059,ONL,ONL
+Dharmesh Rathod,Monday 3PM to 5PM (CL-16),4060,ONL,ONL
+Dharmesh Rathod,Tuesday 11AM to 1PM(CL-6),4061,FAC,104
+Dharmesh Rathod,Tuesday 1PM to 3PM (CR-53),4062,ONL,ONL
+Dharmesh Rathod,Tuesday 3PM to 5PM (CL-15),4063,AA4,101
+Dharmesh Rathod,Wednesday 11AM to 1PM (CL-6),4064,AA4,101
+Dharmesh Rathod,Wednesday 1PM to 3PM (CL-16),4065,FAC,011
+Dharmesh Rathod,Wednesday 3PM to 5PM(CL-12),4066,FAC,011
+Dharmesh Rathod,Thursday 1PM to 2PM (CR-51),513,FAC,CR-51
+Dharmesh Rathod,Friday 11AM to 12PM(CR-51),514,FAC,CR-51
+Dharmesh Rathod,Friday 12PM to 1PM(CR-53),4069,FAC,011
+rejo mathew,Monday 3PM to 4PM (CR-53),531,R53,103
+rejo mathew,Thursday 1PM to 3PM (CL-15),4081,AA4,101
+rejo mathew,Friday 3PM to 5PM(CL-9),4082,AA2,106
+rejo mathew,Saturday 1PM to 3PM(CL-12),4083,AA2,106
+rejo mathew,Saturday 3PM to 4PM(CR-52),525,R52,CR-52
+sulalah mirkar,Tuesday 10AM to 11AM(CR-53),533,R53,CR-53
+sulalah mirkar,Tuesday 11AM to 1M(CL-12),121,R53,CL-12
+sulalah mirkar,Wednesday 11AM to 1PM(CL-12),120,R53,CL-12S
+sulalah mirkar,Thursday 1PM to 2PM(CR-53),530,R53,CR-53
+sulalah mirkar,Friday 9AM to 10AM(CR-51),514,R51,CR-51
+sulalah mirkar,Friday 11AM to 1AM(CL-12),503,R53,CR-53
+sulalah mirkar,Saturday 8AM to 9AM(CR-51),515,R51,CR-51
+saurav verma,Monday 3PM to 4PM(CR-51),516,R51,CR-51
+saurav verma,Monday 12PM to 1PM(CR-51),517,R51,CR-51
+saurav verma,Tuesday 12PM to 1PM(CR-53),531,R53,CR-53
+saurav verma,Wednesday 3PM to 5PM(CL-11),101,R51,CR-51
+saurav verma,Thursday 3PM to 5PM(CL-11),111,R51,CR-51
+saurav verma,Friday 2PM to 3PM(CR-51),518,R51,CR-51

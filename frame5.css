@@ -1,0 +1,224 @@
+.frame5-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+
+.frame5-frame5 {
+  width: 100%;
+  height: 1117px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.frame5-mac-book-pro143 {
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 1117px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.frame5-ellipse2 {
+  top: 205px;
+  left: 758px;
+  width: 232px;
+  height: 12px;
+  position: absolute;
+}
+
+.frame5-text {
+  top: 155px;
+  left: 743px;
+  color: rgba(0, 0, 0, 1);
+  width: 262px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Genos;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.frame5-screenshot202402072025482 {
+  top: 84px;
+  left: 836px;
+  width: 76px;
+  height: 71px;
+  position: absolute;
+  border-radius: 17px;
+}
+
+.frame5-ellipse3 {
+  top: 205px;
+  left: 758px;
+  width: 232px;
+  height: 12px;
+  position: absolute;
+}
+
+.frame5-text02 {
+  top: 155px;
+  left: 743px;
+  color: rgba(0, 0, 0, 1);
+  width: 262px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Genos;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.frame5-screenshot202402072025483 {
+  top: 84px;
+  left: 836px;
+  width: 76px;
+  height: 71px;
+  position: absolute;
+  border-radius: 17px;
+}
+
+.frame5-text04 {
+  top: 1000px;
+  left: 550px;
+  color: rgba(0, 0, 0, 1);
+  width: 717px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.frame5-text06 {
+  top: 872px;
+  left: 172px;
+  color: rgba(0, 0, 0, 1);
+  width: 717px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.frame5-image24 {
+  top: 232px;
+  left: 304px;
+  width: 1181px;
+  height: 765px;
+  position: absolute;
+}
+
+.frame5-text08 {
+  top: 74px;
+  left: 190px;
+  color: rgba(0, 0, 0, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Genos;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.frame5-text10 {
+  top: 68px;
+  left: 1317px;
+  color: rgba(0, 0, 0, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Genos;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.frame5-text12 {
+  top: 68px;
+  left: 1054px;
+  color: rgba(21, 57, 244, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Genos;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.frame5-text14 {
+  top: 70px;
+  left: 442px;
+  color: rgba(0, 0, 0, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Genos;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.frame5-vector1 {
+  top: 454.34844970703125px;
+  left: 791.5189208984375px;
+  width: 82px;
+  height: 17px;
+  position: absolute;
+}
+
+.frame5-vector2 {
+  top: 715.8585205078125px;
+  left: 784.593994140625px;
+  width: 96px;
+  height: 14px;
+  position: absolute;
+}
